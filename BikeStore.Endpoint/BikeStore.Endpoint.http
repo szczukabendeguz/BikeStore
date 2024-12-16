@@ -1,0 +1,6 @@
+@MovieClub.Endpoint_HostAddress = http://localhost:5141
+
+GET {{MovieClub.Endpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
