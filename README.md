@@ -14,7 +14,7 @@ Az alkalmazás indulásakor az **InMemoryDb** adatbázis feltöltésre kerül:
 - **Kerékpár modellek**: Hegyi kerékpárok különböző utazási távolsággal és árakkal.
 - **Felhasználók**: Adminisztrátor és normál felhasználók különböző jogosultságokkal.
 
-## API Végpontok
+## API Végpont példák
 - **GET /api/bikes** - Kerékpármodellek listázása.
 - **POST /api/auth/register** - Új felhasználó regisztrálása.
 - **POST /api/auth/login** - Bejelentkezés és JWT token igénylése.
